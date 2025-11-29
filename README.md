@@ -27,7 +27,9 @@ This project implements a GPU-accelerated image processing pipeline using CUDA a
 To build the project, navigate to the root directory and run:
 
 ```bash
-makeThis will generate an executable named sobel_filter. To remove compiled objects and the executable, run:
+make
+
+This will generate an executable named sobel_filter. To remove compiled objects and the executable, run:
 
 Bash
 
